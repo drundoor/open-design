@@ -1,3 +1,7 @@
+> Fork note: This repository is a fork of [nexu-io/open-design](https://github.com/nexu-io/open-design).
+> This fork adds an “Open Existing Project” workflow for local project folders and has been submitted upstream as PR [#3529](https://github.com/nexu-io/open-design/pull/3529).
+> The original project, license, and maintainers remain credited below.
+
 # Open Design — the open-source Claude Design alternative
 
 > **Open Design is the open-source, local-first alternative to [Claude Design][cd].** Web-deployable, BYOK at every layer — **16 coding-agent CLIs** auto-detected on your `PATH` (Claude Code, Codex, Devin for Terminal, Cursor Agent, Gemini CLI, OpenCode, Qwen, Qoder CLI, GitHub Copilot CLI, Hermes, Kimi, Pi, Kiro, Kilo, Mistral Vibe, DeepSeek TUI) become the design engine, driven by **139 composable Skills** and **150 brand-grade Design Systems**. No CLI? An OpenAI-compatible BYOK proxy is the same loop minus the spawn.
